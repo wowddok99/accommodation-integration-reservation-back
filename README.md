@@ -2,7 +2,7 @@
 
 [![Contributors](https://img.shields.io/badge/contributors-4-brightgreen)](#-기여자-contributors)  
 
-<img width="1285" alt="스크린샷 2024-11-15 20 55 06" src="https://github.com/user-attachments/assets/54bb6ca3-677c-4873-96bd-4e7763733d83">  
+![image](https://github.com/user-attachments/assets/b5aa028d-4c55-433a-94f6-715c08653583)
 
 이 프로젝트는 경주 지역의 관광지를 개인의 선호에 맞게 추천해주는 웹 서비스의 백엔드 애플리케이션입니다. 데이터베이스 설계, 추천 알고리즘 로직 구현, API 제공을 통해 안정적이고 효율적인 맞춤형 관광 서비스 환경을 제공합니다.  
 
