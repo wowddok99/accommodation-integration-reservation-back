@@ -38,14 +38,13 @@
 
 ## 📁 프로젝트 구조  
 ```
-tour-recommend-back  
+accommodation-integration-reservation-back  
 ├── src/main/java/ # Java 소스 코드  
 │   ├── tour_recommend/tour_recommend_back/
 │       ├── config/ # 환경 및 설정 관련 파일  
 │       ├── controller/ # API 엔드포인트 정의  
 │       ├── service/ # 비즈니스 로직  
 │       ├── repository/ # 데이터베이스 접근 계층
-│       ├── dto/ # 클라이언트와 데이터 전송을 위한 DTO 클래스  
 │       └── etity/ # 데이터베이스 테이블과 매핑되는 JPA 엔티티 클래스  
 ├── src/main/resources/   
 │   └── static/ # 정적 리소스  
@@ -61,8 +60,8 @@ tour-recommend-back
 
 1. 저장소 클론  
    ```bash  
-   git clone https://github.com/mjgwon24/tour-recommend-back.git  
-   cd tour-recommend-back  
+   git clone https://github.com/wowddok99/accommodation-integration-reservation-back
+   cd accommodation-integration-reservation-back
    ```  
 
 2. Gradle 의존성 설치  
