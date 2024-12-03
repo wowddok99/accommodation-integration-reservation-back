@@ -1,6 +1,9 @@
 # 🚗 숙박 및 지역 상품 연계 플랫폼 개발 - Backend  
 
-[![Contributors](https://img.shields.io/badge/contributors-4-brightgreen)](#-기여자-contributors)  ![image](https://github.com/user-attachments/assets/4f972fea-97ce-48ef-b1d8-2cac00854368) ![image](https://github.com/user-attachments/assets/b5aa028d-4c55-433a-94f6-715c08653583)
+[![Contributors](https://img.shields.io/badge/contributors-4-brightgreen)](#-기여자-contributors)  
+
+![image](https://github.com/user-attachments/assets/4f972fea-97ce-48ef-b1d8-2cac00854368) 
+![image](https://github.com/user-attachments/assets/b5aa028d-4c55-433a-94f6-715c08653583)
 
 이 프로젝트는 경주 지역의 숙박 및 지역 상품을 개인의 연결해주는 웹 서비스의 백엔드 애플리케이션입니다. 데이터베이스 설계, 추천 알고리즘 로직 구현, API 제공을 통해 안정적이고 효율적인 맞춤형 숙박 예약 서비스 환경을 제공합니다.  
 
