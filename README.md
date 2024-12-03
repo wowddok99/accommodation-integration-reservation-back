@@ -60,7 +60,7 @@ accommodation-integration-reservation-back
 
 1. 저장소 클론  
    ```bash  
-   git clone https://github.com/wowddok99/accommodation-integration-reservation-back
+   git clone https://github.com/wowddok99/accommodation-integration-reservation-back.git
    cd accommodation-integration-reservation-back
    ```  
 
