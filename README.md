@@ -84,5 +84,5 @@ tour-recommend-back
 
 프로젝트 관련 문의는 GitHub Issues 또는 아래 연락처로 보내주세요.  
 
-- **Github:** [mjgwon24](https://github.com/wowddok99)  
+- **Github:** [wowddok99](https://github.com/wowddok99)  
 - **이메일:** wowddok99@gmail.com  
