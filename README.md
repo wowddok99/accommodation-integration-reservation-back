@@ -1,10 +1,8 @@
-# 🚗 경주 맞춤형 관광지 코스 추천 서비스 - Backend  
+# 🚗 숙박 및 지역 상품 연계 플랫폼 개발 - Backend  
 
-[![Contributors](https://img.shields.io/badge/contributors-4-brightgreen)](#-기여자-contributors)  
+[![Contributors](https://img.shields.io/badge/contributors-4-brightgreen)](#-기여자-contributors)  ![image](https://github.com/user-attachments/assets/4f972fea-97ce-48ef-b1d8-2cac00854368) ![image](https://github.com/user-attachments/assets/b5aa028d-4c55-433a-94f6-715c08653583)
 
-![image](https://github.com/user-attachments/assets/b5aa028d-4c55-433a-94f6-715c08653583)
-
-이 프로젝트는 경주 지역의 관광지를 개인의 선호에 맞게 추천해주는 웹 서비스의 백엔드 애플리케이션입니다. 데이터베이스 설계, 추천 알고리즘 로직 구현, API 제공을 통해 안정적이고 효율적인 맞춤형 관광 서비스 환경을 제공합니다.  
+이 프로젝트는 경주 지역의 숙박 및 지역 상품을 개인의 연결해주는 웹 서비스의 백엔드 애플리케이션입니다. 데이터베이스 설계, 추천 알고리즘 로직 구현, API 제공을 통해 안정적이고 효율적인 맞춤형 숙박 예약 서비스 환경을 제공합니다.  
 
 ---
 
@@ -19,8 +17,8 @@
 ---
 
 ## 👩‍💻 주요 기능  
-- **사용자 맞춤형 추천 API**: AI 기반 알고리즘을 통해 개인화된 관광지 코스를 추천합니다.  
-- **데이터베이스 관리**: MySQL 및 JPA를 사용해 관광지 정보, 사용자 데이터, 후기 데이터를 효과적으로 관리합니다.  
+- **사용자 맞춤형 추천 API**: AI 기반 알고리즘을 통해 개인화된 저녁메뉴를 추천합니다.  
+- **데이터베이스 관리**: MySQL 및 JPA를 사용해 숙박 및 지역 재료 데이터, 사용자 예약 데이터, SNS 인증 데이터를 효과적으로 관리합니다.  
 - **RESTful API 설계**: 안정적이고 효율적인 클라이언트-서버 통신을 지원합니다.  
 - **Swagger 문서화**: API 명세를 자동화하여 개발 편의성을 향상시킵니다.  
 
@@ -83,5 +81,5 @@ tour-recommend-back
 
 프로젝트 관련 문의는 GitHub Issues 또는 아래 연락처로 보내주세요.  
 
-- **Github:** [mjgwon24](https://github.com/mjgwon24)  
-- **이메일:** alswlchlrh8@naver.com  
+- **Github:** [mjgwon24](https://github.com/wowddok99)  
+- **이메일:** wowddok99@gmail.com  
